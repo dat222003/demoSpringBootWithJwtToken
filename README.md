@@ -6,6 +6,11 @@
 ### authenticate a user = 'http://localhost:8080/api/v1/auth/authenticate'
 ![image](https://github.com/dat222003/demoSpringBootWithJwtToken/assets/103916721/9ce0a951-0afc-4b56-9800-a66f417d0cf7)
 
+### remove any existing authorization method then use the received token to continue or else get 403 error
+![image](https://github.com/dat222003/demoSpringBootWithJwtToken/assets/103916721/e012894e-b1d3-45bc-b58a-280200f05d6a)
+#
+![image](https://github.com/dat222003/demoSpringBootWithJwtToken/assets/103916721/44acf41d-f8f1-4ac5-ba42-7921d493b089)
+
 ### get all products = 'http://localhost:8080/api/v1/product'
 ![image](https://github.com/dat222003/demoSpringBootWithJwtToken/assets/103916721/25eb7e31-867c-4246-b3ba-4caf4d37d9e2)
 
