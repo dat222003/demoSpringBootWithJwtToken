@@ -6,7 +6,7 @@
 ### register a new user = 'http://localhost:8080/api/v1/auth/register'
 ![image](https://github.com/dat222003/demoSpringBootWithJwtToken/assets/103916721/663ba7c4-6e6d-4c77-beca-b7d413e27da1)
 
-### authenticate a user = 'http://localhost:8080/api/v1/auth/authenticate'
+### authenticate an user = 'http://localhost:8080/api/v1/auth/authenticate'
 ![image](https://github.com/dat222003/demoSpringBootWithJwtToken/assets/103916721/9ce0a951-0afc-4b56-9800-a66f417d0cf7)
 
 ### remove any existing authorization method then use the received token to continue or else get 403 error
@@ -20,7 +20,7 @@
 ### get one product = 'http://localhost:8080/api/v1/product/{id}'
 ![image](https://github.com/dat222003/demoSpringBootWithJwtToken/assets/103916721/bb471159-78fd-4c0b-a08c-63303a14ba1a)
 
-### get page products = 'http://localhost:8080/api/v1/product/{pageNumber}/{pageSize}'
+### get page of products = 'http://localhost:8080/api/v1/product/{pageNumber}/{pageSize}'
 ![image](https://github.com/dat222003/demoSpringBootWithJwtToken/assets/103916721/bb471159-78fd-4c0b-a08c-63303a14ba1a)
 
 ### create product = 'http://localhost:8080/api/v1/product'
@@ -29,5 +29,5 @@
 ### update product = 'http://localhost:8080/api/v1/product/{id}'
 ![image](https://github.com/dat222003/demoSpringBootWithJwtToken/assets/103916721/19b1f9c3-0dc1-45c1-bd39-b2e298aab98f)
 
-### get all category = 'http://localhost:8080/api/v1/category'
+### get all categories = 'http://localhost:8080/api/v1/category'
 ![image](https://github.com/dat222003/demoSpringBootWithJwtToken/assets/103916721/7c1ee9f1-f7ba-4e4b-bf76-6f4161cd47d6)
